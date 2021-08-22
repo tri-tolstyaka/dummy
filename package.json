@@ -1,0 +1,24 @@
+{
+  "name": "tolst-dummy",
+  "version": "1.0.0",
+  "description": "This in an example of tolst-cli usage",
+  "main": "index.js",
+  "scripts": {
+    "tolst:help": "npx tolst-cli --help",
+    "tolst:init": "npx tolst-cli --init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuvani/tolst-dummy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shuvani/tolst-dummy/issues"
+  },
+  "homepage": "https://github.com/Shuvani/tolst-dummy#readme",
+  "devDependencies": {
+    "@tolst/cli": "^1.0.0"
+  }
+}
