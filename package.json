@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shuvani/tolst-dummy.git"
+    "url": "git+https://github.com/tri-tolstyaka/dummy.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alina Bogdanova, Anton Brisilin, Anna Gorb",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Shuvani/tolst-dummy/issues"
+    "url": "https://github.com/tri-tolstyaka/dummy/issues"
   },
-  "homepage": "https://github.com/Shuvani/tolst-dummy#readme",
+  "homepage": "https://github.com/tri-tolstyaka/dummy#readme",
   "devDependencies": {
-    "@tolst/cli": "^1.0.0"
+    "@tri-tolstiaka/cli": "^1.0.0"
   }
 }
