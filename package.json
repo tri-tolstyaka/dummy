@@ -1,6 +1,6 @@
 {
   "name": "@tri-tolstiaka/dummy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This in an example of tolst-cli usage",
   "main": "index.js",
   "scripts": {
