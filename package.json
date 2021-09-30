@@ -6,7 +6,9 @@
     "scripts": {
         "tolst_help": "npx tolst-cli --help",
         "tolst_init": "npx tolst-cli --init",
-        "start": "tolst-cli --server"
+        "start": "tolst-cli --server",
+        "build": "tolst-cli --build",
+        "prod": "tolst-cli --prod"
     },
     "repository": {
         "type": "git",
@@ -20,8 +22,8 @@
     },
     "homepage": "https://github.com/tri-tolstyaka/dummy#readme",
     "devDependencies": {
-        "@tri-tolstiaka/cli": "^1.3.1",
-        "@tri-tolstiaka/dev-server": "^1.3.1",
+        "@tri-tolstiaka/cli": "^3.0.7",
+        "@tri-tolstiaka/dev-server": "^3.0.4",
         "@types/react": "^17.0.26",
         "@types/react-dom": "^17.0.9",
         "ts-loader": "^9.2.6",
