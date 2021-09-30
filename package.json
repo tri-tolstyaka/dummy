@@ -1,34 +1,34 @@
 {
-  "name": "@tri-tolstiaka/dummy",
-  "version": "1.0.3",
-  "description": "This in an example of tolst-cli usage",
-  "main": "index.js",
-  "scripts": {
-    "tolst:help": "npx tolst-cli --help",
-    "tolst:init": "npx tolst-cli --init",
-    "start": "npx tolst-cli --server"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tri-tolstyaka/dummy.git"
-  },
-  "keywords": [],
-  "author": "Alina Bogdanova, Anton Brisilin, Anna Gorb",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tri-tolstyaka/dummy/issues"
-  },
-  "homepage": "https://github.com/tri-tolstyaka/dummy#readme",
-  "devDependencies": {
-    "@tri-tolstiaka/cli": "^1.1.5",
-    "@types/react": "^17.0.21",
-    "@types/react-dom": "^17.0.9",
-    "ts-loader": "^9.2.6",
-    "typescript": "^4.4.3"
-  },
-  "dependencies": {
-    "@tri-tolstiaka/dev-server": "^1.1.13",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
-  }
+    "name": "@tri-tolstiaka/dummy",
+    "version": "1.0.3",
+    "description": "This in an example of tolst-cli usage",
+    "main": "./src/index.tsx",
+    "scripts": {
+        "tolst_help": "npx tolst-cli --help",
+        "tolst_init": "npx tolst-cli --init",
+        "start": "tolst-cli --server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tri-tolstyaka/dummy.git"
+    },
+    "keywords": [],
+    "author": "Alina Bogdanova, Anton Brisilin, Anna Gorb",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tri-tolstyaka/dummy/issues"
+    },
+    "homepage": "https://github.com/tri-tolstyaka/dummy#readme",
+    "devDependencies": {
+        "@tri-tolstiaka/cli": "^1.3.1",
+        "@tri-tolstiaka/dev-server": "^1.3.1",
+        "@types/react": "^17.0.26",
+        "@types/react-dom": "^17.0.9",
+        "ts-loader": "^9.2.6",
+        "typescript": "^4.4.3"
+    },
+    "dependencies": {
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    }
 }
