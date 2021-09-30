@@ -22,7 +22,7 @@
     },
     "homepage": "https://github.com/tri-tolstyaka/dummy#readme",
     "devDependencies": {
-        "@tri-tolstiaka/cli": "^3.0.7",
+        "@tri-tolstiaka/cli": "^3.0.8",
         "@tri-tolstiaka/dev-server": "^3.0.4",
         "@types/react": "^17.0.26",
         "@types/react-dom": "^17.0.9",
